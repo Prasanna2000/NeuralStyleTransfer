@@ -9,7 +9,7 @@ Neural style transfer is an optimization technique used to take two images—a c
 This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
 For example, let’s consider a content image and a style image,
 
-<center><img src="content.jpg" alt="content"/> <img src="style.jpg" alt="style" width="350"/><br></center>
+<center><img src="content.jpg" alt="content" width="400"/> <img src="style.jpg" alt="style" width="350"/><br></center>
 
 The image on the left is the content image and the image on the right is the style image.
 
