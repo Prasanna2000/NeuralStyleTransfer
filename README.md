@@ -11,7 +11,7 @@ For example, let’s consider a content image and a style image,
 
 <center><img src="content.jpg" alt="content" width="400"/> <img src="style.jpg" alt="style" width="350"/><br></center>
 
-The image on the left is the content image and the image on the right is the style image.
+The first image is the content image and the next image is the style image.
 
 Now, after applying the neural style transfer, the generated image would look something like this,
 <center><img src="generated.jpg" alt="content"/></center>
